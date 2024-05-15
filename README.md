@@ -15,4 +15,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardo-cordeiro&show_icons=true&locale=en&layout=compact" alt="leonardo-cordeiro" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=leonardo-cordeiro&show_icons=true&locale=en" alt="leonardo-cordeiro" /></p>
+<a href="#">
+  <img height="180" src="https://streak-stats.demolab.com/?user=leonardo-cordeiro" />
+</a>
+
